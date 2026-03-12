@@ -1,0 +1,17 @@
+#pr1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+#pr1 .p1 {
+    grid-column-start: 1;
+    grid-row-start: 1;
+}
+#pr1 .Lo1 {
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+#pr1 .prc1 {
+    grid-column-start: 1;
+    grid-row-start: 3;
+}
