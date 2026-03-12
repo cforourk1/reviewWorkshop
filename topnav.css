@@ -1,0 +1,15 @@
+/*
+top navigation bar styling
+search bar styling
+*/
+
+main {
+    display: flex;
+    flex-grow: 1;
+}
+.topnav {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    justify-content: left;
+}
